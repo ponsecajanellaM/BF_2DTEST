@@ -1152,10 +1152,10 @@ TextureImporter:
       name: NES - Balloon Fight - Everything (1)_23
       rect:
         serializedVersion: 2
-        x: 180
-        y: 243
-        width: 30
-        height: 30
+        x: 178
+        y: 247
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

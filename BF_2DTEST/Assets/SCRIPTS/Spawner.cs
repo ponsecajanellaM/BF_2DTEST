@@ -5,16 +5,7 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     public GameObject objToSpawn;
-
     public float timeLeft, originalTime;
-
-
-    void Start()
-    {
-        
-    }
-
-    
     void Update()
     {
         timeLeft -= Time.deltaTime;
@@ -23,7 +14,7 @@ public class Spawner : MonoBehaviour
         {
             //spawn point
             Instantiate(objToSpawn, transform.position, Quaternion.identity);
-
+            gameObject.SetActive(false);
             timeLeft = originalTime; //reset time
         }
     }

@@ -9,13 +9,8 @@ public class PointScript : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            //ointCounter.pointAmount += 200;
-            //Destroy(gameObject);
-
             gameObject.SetActive(false);
-
             ScoreManager.Score += 200;
-
             //ScoreManager.Score ++;
         }
     }
