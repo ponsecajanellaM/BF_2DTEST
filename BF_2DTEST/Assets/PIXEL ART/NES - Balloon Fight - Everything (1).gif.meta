@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: c1395a6881062f04db4b045c5d4d8950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5070693498691477626
+    second: NES - Balloon Fight - Everything (1)_0
+  - first:
+      213: 7002889109171282404
+    second: NES - Balloon Fight - Everything (1)_1
+  - first:
+      213: 973711826249094736
+    second: NES - Balloon Fight - Everything (1)_2
+  - first:
+      213: 5309118349329660670
+    second: NES - Balloon Fight - Everything (1)_3
+  - first:
+      213: -177805660969323914
+    second: NES - Balloon Fight - Everything (1)_4
+  - first:
+      213: -2061404567929276660
+    second: NES - Balloon Fight - Everything (1)_5
+  - first:
+      213: 5077145980567530679
+    second: NES - Balloon Fight - Everything (1)_6
+  - first:
+      213: 5988697692329279738
+    second: NES - Balloon Fight - Everything (1)_7
+  - first:
+      213: -5419885480326442766
+    second: NES - Balloon Fight - Everything (1)_8
+  - first:
+      213: -5152736819913247675
+    second: NES - Balloon Fight - Everything (1)_9
+  - first:
+      213: -6943926574982830897
+    second: NES - Balloon Fight - Everything (1)_10
+  - first:
+      213: -7785032963969262601
+    second: NES - Balloon Fight - Everything (1)_11
+  - first:
+      213: 7808515697472867421
+    second: NES - Balloon Fight - Everything (1)_12
+  - first:
+      213: 1606465775108964162
+    second: NES - Balloon Fight - Everything (1)_13
+  - first:
+      213: 8668020619757320536
+    second: NES - Balloon Fight - Everything (1)_14
+  - first:
+      213: -8650279599548018150
+    second: NES - Balloon Fight - Everything (1)_15
+  - first:
+      213: 5292931517903170860
+    second: NES - Balloon Fight - Everything (1)_16
+  - first:
+      213: 4940758914300985350
+    second: NES - Balloon Fight - Everything (1)_17
+  - first:
+      213: -5390646841735621372
+    second: NES - Balloon Fight - Everything (1)_18
+  - first:
+      213: -552255777949721883
+    second: NES - Balloon Fight - Everything (1)_19
+  - first:
+      213: -8120057817996045776
+    second: NES - Balloon Fight - Everything (1)_20
+  - first:
+      213: 3183432689517869555
+    second: NES - Balloon Fight - Everything (1)_21
+  - first:
+      213: 6298641200319013865
+    second: NES - Balloon Fight - Everything (1)_22
+  - first:
+      213: 706907008545186005
+    second: NES - Balloon Fight - Everything (1)_23
+  - first:
+      213: 863020480387984196
+    second: NES - Balloon Fight - Everything (1)_24
+  - first:
+      213: -1390145142698814053
+    second: NES - Balloon Fight - Everything (1)_25
+  - first:
+      213: 18583503978216768
+    second: NES - Balloon Fight - Everything (1)_26
+  - first:
+      213: -6543706152334148976
+    second: NES - Balloon Fight - Everything (1)_27
+  - first:
+      213: -1296979598370986460
+    second: NES - Balloon Fight - Everything (1)_28
+  - first:
+      213: -8059143493574471537
+    second: NES - Balloon Fight - Everything (1)_29
+  - first:
+      213: 7475367033805557165
+    second: NES - Balloon Fight - Everything (1)_30
+  - first:
+      213: 8064268763801211358
+    second: NES - Balloon Fight - Everything (1)_31
+  - first:
+      213: 4623023611592031385
+    second: NES - Balloon Fight - Everything (1)_32
+  - first:
+      213: -8933805695814789064
+    second: NES - Balloon Fight - Everything (1)_33
+  - first:
+      213: -6011213925118798464
+    second: NES - Balloon Fight - Everything (1)_34
+  - first:
+      213: -3364273824586007347
+    second: NES - Balloon Fight - Everything (1)_35
+  - first:
+      213: 7900864290807479924
+    second: NES - Balloon Fight - Everything (1)_36
+  - first:
+      213: 4462695626916092662
+    second: NES - Balloon Fight - Everything (1)_37
+  - first:
+      213: -722335269051808176
+    second: NES - Balloon Fight - Everything (1)_38
+  - first:
+      213: -4308685855644277308
+    second: NES - Balloon Fight - Everything (1)_39
+  - first:
+      213: -6369914120380307942
+    second: NES - Balloon Fight - Everything (1)_40
+  - first:
+      213: 1474842193843665077
+    second: NES - Balloon Fight - Everything (1)_41
+  - first:
+      213: 7236007289950707577
+    second: NES - Balloon Fight - Everything (1)_42
+  - first:
+      213: -8578065748198752713
+    second: NES - Balloon Fight - Everything (1)_43
+  - first:
+      213: 5829078041778742543
+    second: NES - Balloon Fight - Everything (1)_44
+  - first:
+      213: 8992496294733245076
+    second: NES - Balloon Fight - Everything (1)_45
+  - first:
+      213: 6901055461598826934
+    second: NES - Balloon Fight - Everything (1)_46
+  - first:
+      213: -7353276713516823557
+    second: NES - Balloon Fight - Everything (1)_47
+  - first:
+      213: 2384972906312708467
+    second: NES - Balloon Fight - Everything (1)_48
+  - first:
+      213: -1851298392779269992
+    second: NES - Balloon Fight - Everything (1)_49
+  - first:
+      213: -3215703717147678814
+    second: NES - Balloon Fight - Everything (1)_50
+  - first:
+      213: 4841844514976012424
+    second: NES - Balloon Fight - Everything (1)_51
+  - first:
+      213: 3860501189373384154
+    second: NES - Balloon Fight - Everything (1)_52
+  - first:
+      213: 8456175626398505230
+    second: NES - Balloon Fight - Everything (1)_53
+  - first:
+      213: -2646235968539218653
+    second: NES - Balloon Fight - Everything (1)_54
+  - first:
+      213: -5278477377547833903
+    second: NES - Balloon Fight - Everything (1)_55
+  - first:
+      213: 4807483636625212863
+    second: NES - Balloon Fight - Everything (1)_56
+  - first:
+      213: -2199043990981791017
+    second: NES - Balloon Fight - Everything (1)_57
+  - first:
+      213: -4326987164720828068
+    second: NES - Balloon Fight - Everything (1)_58
+  - first:
+      213: -8706881078292052637
+    second: NES - Balloon Fight - Everything (1)_59
+  - first:
+      213: -677628538548058884
+    second: NES - Balloon Fight - Everything (1)_60
+  - first:
+      213: 8861699233539407421
+    second: NES - Balloon Fight - Everything (1)_61
+  - first:
+      213: -2389738838604810808
+    second: NES - Balloon Fight - Everything (1)_62
+  - first:
+      213: -7529388814175632918
+    second: NES - Balloon Fight - Everything (1)_63
+  - first:
+      213: -6717661989217907713
+    second: NES - Balloon Fight - Everything (1)_64
+  - first:
+      213: 36018626780579606
+    second: NES - Balloon Fight - Everything (1)_65
+  - first:
+      213: 3695862499583137606
+    second: NES - Balloon Fight - Everything (1)_66
+  - first:
+      213: 6545900009383223257
+    second: NES - Balloon Fight - Everything (1)_67
+  - first:
+      213: 7208097497147533184
+    second: NES - Balloon Fight - Everything (1)_68
+  - first:
+      213: 9148192946678527447
+    second: NES - Balloon Fight - Everything (1)_69
+  - first:
+      213: 6700688393684066308
+    second: NES - Balloon Fight - Everything (1)_70
+  - first:
+      213: -2070784814112711186
+    second: NES - Balloon Fight - Everything (1)_71
+  - first:
+      213: 7301348301680694029
+    second: NES - Balloon Fight - Everything (1)_72
+  - first:
+      213: 4021106737891132746
+    second: NES - Balloon Fight - Everything (1)_73
+  - first:
+      213: 8002214596855143309
+    second: NES - Balloon Fight - Everything (1)_74
+  - first:
+      213: 3405194131570750643
+    second: NES - Balloon Fight - Everything (1)_75
+  - first:
+      213: 5784811905700771553
+    second: NES - Balloon Fight - Everything (1)_76
+  - first:
+      213: -5349913675741937068
+    second: NES - Balloon Fight - Everything (1)_77
+  - first:
+      213: 2933814251790066774
+    second: NES - Balloon Fight - Everything (1)_78
+  - first:
+      213: 6568676341028097767
+    second: NES - Balloon Fight - Everything (1)_79
+  - first:
+      213: 1995351424270192216
+    second: NES - Balloon Fight - Everything (1)_80
+  - first:
+      213: -4101729238394225843
+    second: NES - Balloon Fight - Everything (1)_81
+  - first:
+      213: -1388259351368516851
+    second: NES - Balloon Fight - Everything (1)_82
+  - first:
+      213: -3584201485869149858
+    second: NES - Balloon Fight - Everything (1)_83
+  - first:
+      213: -6278437145491333829
+    second: NES - Balloon Fight - Everything (1)_84
+  - first:
+      213: -1020673613987443655
+    second: NES - Balloon Fight - Everything (1)_85
+  - first:
+      213: 8325057230574406399
+    second: NES - Balloon Fight - Everything (1)_86
+  - first:
+      213: 4323526457148181889
+    second: NES - Balloon Fight - Everything (1)_87
+  - first:
+      213: -6147571149084036644
+    second: NES - Balloon Fight - Everything (1)_88
+  - first:
+      213: 1334816761198520928
+    second: NES - Balloon Fight - Everything (1)_89
+  - first:
+      213: -3237957341122566665
+    second: NES - Balloon Fight - Everything (1)_90
+  - first:
+      213: 6770841325611263520
+    second: NES - Balloon Fight - Everything (1)_91
+  - first:
+      213: -4237713787088918348
+    second: NES - Balloon Fight - Everything (1)_92
+  - first:
+      213: -117411832415413670
+    second: NES - Balloon Fight - Everything (1)_93
+  - first:
+      213: -1753175328659732248
+    second: NES - Balloon Fight - Everything (1)_94
+  - first:
+      213: -4381814347444552074
+    second: NES - Balloon Fight - Everything (1)_95
+  - first:
+      213: -3955824353224160702
+    second: NES - Balloon Fight - Everything (1)_96
+  - first:
+      213: 5875875244263364790
+    second: NES - Balloon Fight - Everything (1)_97
+  - first:
+      213: 4714878090793852243
+    second: NES - Balloon Fight - Everything (1)_98
+  - first:
+      213: -1542970481625038282
+    second: NES - Balloon Fight - Everything (1)_99
+  - first:
+      213: 8837997605415032311
+    second: NES - Balloon Fight - Everything (1)_100
+  - first:
+      213: 4364397787727612199
+    second: NES - Balloon Fight - Everything (1)_101
+  - first:
+      213: 5622112281696326373
+    second: NES - Balloon Fight - Everything (1)_102
+  - first:
+      213: 1970297424245361887
+    second: NES - Balloon Fight - Everything (1)_103
+  - first:
+      213: 1379863234807032258
+    second: NES - Balloon Fight - Everything (1)_104
+  - first:
+      213: -2162309191800427981
+    second: NES - Balloon Fight - Everything (1)_105
+  - first:
+      213: 4713597506807151978
+    second: NES - Balloon Fight - Everything (1)_106
+  - first:
+      213: 430511898271639664
+    second: NES - Balloon Fight - Everything (1)_107
+  - first:
+      213: 2742765687364021950
+    second: NES - Balloon Fight - Everything (1)_108
+  - first:
+      213: 72074261079625866
+    second: NES - Balloon Fight - Everything (1)_109
+  - first:
+      213: -6623919028419652690
+    second: NES - Balloon Fight - Everything (1)_110
+  - first:
+      213: -9222446271903099889
+    second: NES - Balloon Fight - Everything (1)_111
+  - first:
+      213: -1576428938215033391
+    second: NES - Balloon Fight - Everything (1)_112
+  - first:
+      213: 7696733312531523082
+    second: NES - Balloon Fight - Everything (1)_113
+  - first:
+      213: 836705177411848670
+    second: NES - Balloon Fight - Everything (1)_114
+  - first:
+      213: 4942054133307756065
+    second: NES - Balloon Fight - Everything (1)_115
+  - first:
+      213: -5326901269968230832
+    second: NES - Balloon Fight - Everything (1)_116
+  - first:
+      213: 3817890339176795475
+    second: NES - Balloon Fight - Everything (1)_117
+  - first:
+      213: -6560804038088473518
+    second: NES - Balloon Fight - Everything (1)_118
+  - first:
+      213: -8936154772277582353
+    second: NES - Balloon Fight - Everything (1)_119
+  - first:
+      213: 156308023094947763
+    second: NES - Balloon Fight - Everything (1)_120
+  - first:
+      213: 8930387794585725003
+    second: NES - Balloon Fight - Everything (1)_121
+  - first:
+      213: 3529720593438540478
+    second: NES - Balloon Fight - Everything (1)_122
+  - first:
+      213: -2389942003317908575
+    second: NES - Balloon Fight - Everything (1)_123
+  - first:
+      213: 2188106938366689063
+    second: NES - Balloon Fight - Everything (1)_124
+  - first:
+      213: -2741626535081092500
+    second: NES - Balloon Fight - Everything (1)_125
+  - first:
+      213: -3790897811660169721
+    second: NES - Balloon Fight - Everything (1)_126
+  - first:
+      213: -540456630216355687
+    second: NES - Balloon Fight - Everything (1)_127
+  - first:
+      213: 3479230810388644393
+    second: NES - Balloon Fight - Everything (1)_128
+  - first:
+      213: -4327183838398080963
+    second: NES - Balloon Fight - Everything (1)_129
+  - first:
+      213: 588754649909268949
+    second: NES - Balloon Fight - Everything (1)_130
+  - first:
+      213: 2915496202570621196
+    second: NES - Balloon Fight - Everything (1)_131
+  - first:
+      213: 8137664560132125102
+    second: NES - Balloon Fight - Everything (1)_132
+  - first:
+      213: 5773154214070874851
+    second: NES - Balloon Fight - Everything (1)_133
+  - first:
+      213: -4304219359638125232
+    second: NES - Balloon Fight - Everything (1)_134
+  - first:
+      213: -2486911199642589675
+    second: NES - Balloon Fight - Everything (1)_135
+  - first:
+      213: -7954807696803810805
+    second: NES - Balloon Fight - Everything (1)_136
+  - first:
+      213: 4153094819805293670
+    second: NES - Balloon Fight - Everything (1)_137
+  - first:
+      213: 896469399328649491
+    second: NES - Balloon Fight - Everything (1)_138
+  - first:
+      213: -802334423140610389
+    second: NES - Balloon Fight - Everything (1)_139
+  - first:
+      213: -3650682230380916138
+    second: NES - Balloon Fight - Everything (1)_140
+  - first:
+      213: 7643800863912589386
+    second: NES - Balloon Fight - Everything (1)_141
+  - first:
+      213: -4073445948489913881
+    second: NES - Balloon Fight - Everything (1)_142
+  - first:
+      213: -3623440097968798481
+    second: NES - Balloon Fight - Everything (1)_143
+  - first:
+      213: 3154975892046254242
+    second: NES - Balloon Fight - Everything (1)_144
+  - first:
+      213: -5784480562787220858
+    second: NES - Balloon Fight - Everything (1)_145
+  - first:
+      213: -6769219461839312625
+    second: NES - Balloon Fight - Everything (1)_146
+  - first:
+      213: -5186018659247024256
+    second: NES - Balloon Fight - Everything (1)_147
+  - first:
+      213: -4626550641055693849
+    second: NES - Balloon Fight - Everything (1)_148
+  - first:
+      213: 6318749937568612329
+    second: NES - Balloon Fight - Everything (1)_149
+  - first:
+      213: 4852015626020667239
+    second: NES - Balloon Fight - Everything (1)_150
+  - first:
+      213: -3639090437490082392
+    second: NES - Balloon Fight - Everything (1)_151
+  - first:
+      213: -2544355455836919095
+    second: NES - Balloon Fight - Everything (1)_152
+  - first:
+      213: -2108716587062109111
+    second: NES - Balloon Fight - Everything (1)_153
+  - first:
+      213: -8688561304357807602
+    second: NES - Balloon Fight - Everything (1)_154
+  - first:
+      213: -5680309913072752479
+    second: NES - Balloon Fight - Everything (1)_155
+  - first:
+      213: -3439625458994045950
+    second: NES - Balloon Fight - Everything (1)_156
+  - first:
+      213: -1195004458165669120
+    second: NES - Balloon Fight - Everything (1)_157
+  - first:
+      213: -897454911343396685
+    second: NES - Balloon Fight - Everything (1)_158
+  - first:
+      213: 5208258862731221234
+    second: NES - Balloon Fight - Everything (1)_159
+  - first:
+      213: 1336393447860984483
+    second: NES - Balloon Fight - Everything (1)_160
+  - first:
+      213: -4885640246726188501
+    second: NES - Balloon Fight - Everything (1)_161
+  - first:
+      213: -5583999579364907051
+    second: NES - Balloon Fight - Everything (1)_162
+  - first:
+      213: -8288634539348606098
+    second: NES - Balloon Fight - Everything (1)_163
+  - first:
+      213: -5744850414785981878
+    second: NES - Balloon Fight - Everything (1)_164
+  - first:
+      213: -7745002717690312540
+    second: NES - Balloon Fight - Everything (1)_165
+  - first:
+      213: 3284886869073716607
+    second: NES - Balloon Fight - Everything (1)_166
+  - first:
+      213: -6164083540052243691
+    second: NES - Balloon Fight - Everything (1)_167
+  - first:
+      213: -7223218469009592937
+    second: NES - Balloon Fight - Everything (1)_168
+  - first:
+      213: 9112700684515040385
+    second: NES - Balloon Fight - Everything (1)_169
+  - first:
+      213: 8949762263377276428
+    second: NES - Balloon Fight - Everything (1)_170
+  - first:
+      213: -7868812220891603926
+    second: NES - Balloon Fight - Everything (1)_171
+  - first:
+      213: -8278152004403263735
+    second: NES - Balloon Fight - Everything (1)_172
+  - first:
+      213: 1559655780087988462
+    second: NES - Balloon Fight - Everything (1)_173
+  - first:
+      213: 7658424980845151593
+    second: NES - Balloon Fight - Everything (1)_174
+  - first:
+      213: 5231076246988205522
+    second: NES - Balloon Fight - Everything (1)_175
+  - first:
+      213: 73057750226340002
+    second: NES - Balloon Fight - Everything (1)_176
+  - first:
+      213: 6981531033943353577
+    second: NES - Balloon Fight - Everything (1)_177
+  - first:
+      213: 2310702793738595328
+    second: NES - Balloon Fight - Everything (1)_178
+  - first:
+      213: -1968625438431221547
+    second: NES - Balloon Fight - Everything (1)_179
+  - first:
+      213: 8781036028090495317
+    second: NES - Balloon Fight - Everything (1)_180
+  - first:
+      213: -2535578468973521903
+    second: NES - Balloon Fight - Everything (1)_181
+  - first:
+      213: -3543035729908290618
+    second: NES - Balloon Fight - Everything (1)_182
+  - first:
+      213: -6416262985102739854
+    second: NES - Balloon Fight - Everything (1)_183
+  - first:
+      213: -8618387002160912069
+    second: NES - Balloon Fight - Everything (1)_184
+  - first:
+      213: -3499899907812963584
+    second: NES - Balloon Fight - Everything (1)_185
+  - first:
+      213: -4381409392236317389
+    second: NES - Balloon Fight - Everything (1)_186
+  - first:
+      213: 4446807145647892720
+    second: NES - Balloon Fight - Everything (1)_187
+  - first:
+      213: -8528183111600370313
+    second: NES - Balloon Fight - Everything (1)_188
+  - first:
+      213: 5402015869694468443
+    second: NES - Balloon Fight - Everything (1)_189
+  - first:
+      213: 1810618527352183442
+    second: NES - Balloon Fight - Everything (1)_190
+  - first:
+      213: 8324027341256338180
+    second: NES - Balloon Fight - Everything (1)_191
+  - first:
+      213: 1728029138939756674
+    second: NES - Balloon Fight - Everything (1)_192
+  - first:
+      213: 1124888185189320587
+    second: NES - Balloon Fight - Everything (1)_193
+  - first:
+      213: -5695678137137544979
+    second: NES - Balloon Fight - Everything (1)_194
+  - first:
+      213: 5976334709429367058
+    second: NES - Balloon Fight - Everything (1)_195
+  - first:
+      213: -7783126192346540532
+    second: NES - Balloon Fight - Everything (1)_196
+  - first:
+      213: 696627907815817878
+    second: NES - Balloon Fight - Everything (1)_197
+  - first:
+      213: -7974280234403571651
+    second: NES - Balloon Fight - Everything (1)_198
+  - first:
+      213: 6810448701923490216
+    second: NES - Balloon Fight - Everything (1)_199
+  - first:
+      213: -1184591290475312761
+    second: NES - Balloon Fight - Everything (1)_200
+  - first:
+      213: 8380433976135197973
+    second: NES - Balloon Fight - Everything (1)_201
+  - first:
+      213: -4320796336974303347
+    second: NES - Balloon Fight - Everything (1)_202
+  - first:
+      213: -3848265442846323791
+    second: NES - Balloon Fight - Everything (1)_203
+  - first:
+      213: 2848813260626744318
+    second: NES - Balloon Fight - Everything (1)_204
+  - first:
+      213: -9149456489186905759
+    second: NES - Balloon Fight - Everything (1)_205
+  - first:
+      213: 1619049022622705123
+    second: NES - Balloon Fight - Everything (1)_206
+  - first:
+      213: -1737391664859311035
+    second: NES - Balloon Fight - Everything (1)_207
+  - first:
+      213: -8367147350647212270
+    second: NES - Balloon Fight - Everything (1)_208
+  - first:
+      213: -5862827747255351224
+    second: NES - Balloon Fight - Everything (1)_209
+  - first:
+      213: 8037681129675743559
+    second: NES - Balloon Fight - Everything (1)_210
+  - first:
+      213: -8501521319718529710
+    second: NES - Balloon Fight - Everything (1)_211
+  - first:
+      213: -8141661047737121510
+    second: NES - Balloon Fight - Everything (1)_212
+  - first:
+      213: 7820206991164876462
+    second: NES - Balloon Fight - Everything (1)_213
+  - first:
+      213: -3271582062446331473
+    second: NES - Balloon Fight - Everything (1)_214
+  - first:
+      213: 7752203783943481980
+    second: NES - Balloon Fight - Everything (1)_215
+  - first:
+      213: -509677509770273186
+    second: NES - Balloon Fight - Everything (1)_216
+  - first:
+      213: 6354857015825935884
+    second: NES - Balloon Fight - Everything (1)_217
+  - first:
+      213: 6720618738418014004
+    second: NES - Balloon Fight - Everything (1)_218
+  - first:
+      213: 4017891029590895958
+    second: NES - Balloon Fight - Everything (1)_219
+  - first:
+      213: 2867097795255156692
+    second: NES - Balloon Fight - Everything (1)_220
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f9c9de02741a9b0800000000000000
+      internalID: -5070693498691477626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e12b99ba824f2160800000000000000
+      internalID: 7002889109171282404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0569c2d3fb1538d00800000000000000
+      internalID: 973711826249094736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7d428207cda940800000000000000
+      internalID: 5309118349329660670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 195
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672bed281be488df0800000000000000
+      internalID: -177805660969323914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca7849e55a57640800000000000000
+      internalID: 5077145980567530679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00d7a52d02c1350800000000000000
+      internalID: 5988697692329279738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f058d51fd2b8c4b0800000000000000
+      internalID: -5419885480326442766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544bef3a92dcd78b0800000000000000
+      internalID: -5152736819913247675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e0cf029732af90800000000000000
+      internalID: -6943926574982830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd7e124c106f390800000000000000
+      internalID: -7785032963969262601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c8ee2d7ab6d5c60800000000000000
+      internalID: 7808515697472867421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f313d6c105b4610800000000000000
+      internalID: 1606465775108964162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859756a14defa4870800000000000000
+      internalID: 8668020619757320536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d12d098804f780800000000000000
+      internalID: -8650279599548018150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d66112c25447940800000000000000
+      internalID: 5292931517903170860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60041c72e0a119440800000000000000
+      internalID: 4940758914300985350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40554c022439035b0800000000000000
+      internalID: -5390646841735621372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea5622cb4ef558f0800000000000000
+      internalID: -552255777949721883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e19dcd207fc900800000000000000
+      internalID: 706907008545186005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba96fed801afb00800000000000000
+      internalID: 863020480387984196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d337ab5635bce0800000000000000
+      internalID: -1390145142698814053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dbd413995024000800000000000000
+      internalID: 18583503978216768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab59bace51035a0800000000000000
+      internalID: -6543706152334148976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_28
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262b2e4de3300ee0800000000000000
+      internalID: -1296979598370986460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d79711bb282090800000000000000
+      internalID: -8059143493574471537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad45a706b6ddb760800000000000000
+      internalID: 7475367033805557165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed156afd6b90aef60800000000000000
+      internalID: 8064268763801211358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cbf2d1b77482040800000000000000
+      internalID: 4623023611592031385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83819909d0fb40480800000000000000
+      internalID: -8933805695814789064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_34
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085996ca8c0e39ca0800000000000000
+      internalID: -6011213925118798464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf76ef7c2bf41d0800000000000000
+      internalID: -3364273824586007347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 243
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef520463285ad60800000000000000
+      internalID: 7900864290807479924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad50f370eaeed30800000000000000
+      internalID: 4462695626916092662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0564e6f56efb9f5f0800000000000000
+      internalID: -722335269051808176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5a29dea097434c0800000000000000
+      internalID: -4308685855644277308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73efaaa86a694f880800000000000000
+      internalID: -8578065748198752713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056040689b05e050800000000000000
+      internalID: 5829078041778742543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a679b5cb3cbcc70800000000000000
+      internalID: 8992496294733245076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11ed3016975cf50800000000000000
+      internalID: 6901055461598826934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8da3d9c9e3f990800000000000000
+      internalID: -7353276713516823557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37133bfd830291120800000000000000
+      internalID: 2384972906312708467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_49
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d32d9bedde46e0800000000000000
+      internalID: -1851298392779269992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7628cb1868f53d0800000000000000
+      internalID: -3215703717147678814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88891d4eeefa13340800000000000000
+      internalID: 4841844514976012424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d29fb061439530800000000000000
+      internalID: 3860501189373384154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_53
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e099cc1fdee5a5570800000000000000
+      internalID: 8456175626398505230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dab5f286ea64bd0800000000000000
+      internalID: -2646235968539218653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_55
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd635caac41fb6b0800000000000000
+      internalID: -5278477377547833903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 213
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb58c8875ec97b240800000000000000
+      internalID: 4807483636625212863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 190
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b218242d6b71e0800000000000000
+      internalID: -2199043990981791017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51f32b591473f3c0800000000000000
+      internalID: -4326987164720828068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 190
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36505d25ac1fa2780800000000000000
+      internalID: -8706881078292052637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_63
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1034314cc328790800000000000000
+      internalID: -7529388814175632918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbc583330216c2a0800000000000000
+      internalID: -6717661989217907713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617cd8e00c6ff7000800000000000000
+      internalID: 36018626780579606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_66
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6471752ac575a4330800000000000000
+      internalID: 3695862499583137606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df538a7065b7da50800000000000000
+      internalID: 6545900009383223257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_68
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0876cd7cb7e480460800000000000000
+      internalID: 7208097497147533184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f18b0409e4fe70800000000000000
+      internalID: 9148192946678527447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4002f10a790adfc50800000000000000
+      internalID: 6700688393684066308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_71
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd98cde281343e0800000000000000
+      internalID: -2070784814112711186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_72
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03541f9899935560800000000000000
+      internalID: 7301348301680694029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_73
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454eebf547ddc730800000000000000
+      internalID: 4021106737891132746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1ffd37c39d0f60800000000000000
+      internalID: 8002214596855143309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f48b650ea14f20800000000000000
+      internalID: 3405194131570750643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6bebb67c7c74050800000000000000
+      internalID: 5784811905700771553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bbda45dfab317c0800000000000000
+      internalID: -4101729238394225843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb099a979ebbce0800000000000000
+      internalID: -1388259351368516851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51975f0dbb524ec0800000000000000
+      internalID: -3584201485869149858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_84
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1f564ea28ed8a0800000000000000
+      internalID: -6278437145491333829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0aae71c6d5d1f0800000000000000
+      internalID: -1020673613987443655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa4f23717b888370800000000000000
+      internalID: 8325057230574406399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_87
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d025fd760400c30800000000000000
+      internalID: 4323526457148181889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_88
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f7637c907faaa0800000000000000
+      internalID: -6147571149084036644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_89
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aa97ba5c8368210800000000000000
+      internalID: 1334816761198520928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 153
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5658424f67013d0800000000000000
+      internalID: -3237957341122566665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026289bef4cd6fd50800000000000000
+      internalID: 6770841325611263520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 142
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82ac453cd9035c0800000000000000
+      internalID: -4237713787088918348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_93
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a937c7f8ede5ef0800000000000000
+      internalID: -117411832415413670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1a01a4ac9e6140800000000000000
+      internalID: 4714878090793852243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63283df9584469ae0800000000000000
+      internalID: -1542970481625038282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f514841fffd6aa70800000000000000
+      internalID: 8837997605415032311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72941041aa4719c30800000000000000
+      internalID: 4364397787727612199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2dedd3551c50e40800000000000000
+      internalID: 5622112281696326373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc030a7117e75b10800000000000000
+      internalID: 1970297424245361887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_112
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 159
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5fb04ab366f1ae0800000000000000
+      internalID: -1576428938215033391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_121
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 93
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4824ca426c1feb70800000000000000
+      internalID: 8930387794585725003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 93
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20940bd261cf030800000000000000
+      internalID: 3529720593438540478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_123
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 93
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab5372196835ded0800000000000000
+      internalID: -2389942003317908575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Balloon Fight - Everything (1)_124
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 93
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff9e7daa7bd5e10800000000000000
+      internalID: 2188106938366689063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 91e91fd96b305894e93e4bb4d35f66b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
