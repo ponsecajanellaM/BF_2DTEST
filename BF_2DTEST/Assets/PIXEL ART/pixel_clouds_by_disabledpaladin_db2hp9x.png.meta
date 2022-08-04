@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 6ce987b3886688c49b8a5190c26d930d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3798662450075049254
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_0
+  - first:
+      213: 5981459244005530984
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_1
+  - first:
+      213: -6451636427028317048
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_2
+  - first:
+      213: 1514249054546585583
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_3
+  - first:
+      213: 5628112939176938703
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_4
+  - first:
+      213: -3523261306851735623
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_5
+  - first:
+      213: -2615569298366095541
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_6
+  - first:
+      213: -4525896724828974247
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_7
+  - first:
+      213: -1874869648111180880
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_8
+  - first:
+      213: 6228090696031606018
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_9
+  - first:
+      213: -6285432274082988071
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_10
+  - first:
+      213: 3502691131172079913
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_11
+  - first:
+      213: -9078515620262804217
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_12
+  - first:
+      213: 8822202567627309701
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_13
+  - first:
+      213: -3033569472813941789
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_14
+  - first:
+      213: 4968026258094862727
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_15
+  - first:
+      213: 3038839801440645745
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_16
+  - first:
+      213: 2139757836226016623
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_17
+  - first:
+      213: 1476492894182279305
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_18
+  - first:
+      213: -8724148159442838930
+    second: pixel_clouds_by_disabledpaladin_db2hp9x_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 600
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d96564f5f87b430800000000000000
+      internalID: 3798662450075049254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 563
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1d65cd79620350800000000000000
+      internalID: 5981459244005530984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 459
+        width: 244
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb1031ade2776a0800000000000000
+      internalID: -6451636427028317048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 457
+        width: 286
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe768b50e71b30510800000000000000
+      internalID: 1514249054546585583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcccb6f26e21b1e40800000000000000
+      internalID: 5628112939176938703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7493a228cda1fc0800000000000000
+      internalID: -3523261306851735623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 580
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f987db491a3bbd0800000000000000
+      internalID: -2615569298366095541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 455
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953177278e8c031c0800000000000000
+      internalID: -4525896724828974247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 299
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3eb201dff1bf5e0800000000000000
+      internalID: -1874869648111180880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 357
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20511ed7d7f9e6650800000000000000
+      internalID: 6228090696031606018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 264
+        width: 266
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dff18bf5a8a5c8a0800000000000000
+      internalID: -6285432274082988071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 261
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9294c67960f0c9030800000000000000
+      internalID: 3502691131172079913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 89
+        width: 210
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058666b422a20280800000000000000
+      internalID: -9078515620262804217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 185
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58207f34e72ce6a70800000000000000
+      internalID: 8822202567627309701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 77
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb47313a896e5d0800000000000000
+      internalID: -3033569472813941789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 129
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781be8c5f89f1f440800000000000000
+      internalID: 4968026258094862727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 80
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172303ee2b02c2a20800000000000000
+      internalID: 3038839801440645745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653c954a62f1bd10800000000000000
+      internalID: 2139757836226016623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 38
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888f17e67e8d7410800000000000000
+      internalID: 1476492894182279305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_clouds_by_disabledpaladin_db2hp9x_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 27
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1884b8799de680800000000000000
+      internalID: -8724148159442838930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb431ab3566b34d4b9f9bb08d2baf133
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
